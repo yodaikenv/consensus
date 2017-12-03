@@ -1,0 +1,9 @@
+T= {
+rounds = 50000,
+proposers = 5,
+acceptors = 7,
+timeperround = 500,
+retries=25,
+maxacceptors=35
+}
+
